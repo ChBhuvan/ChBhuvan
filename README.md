@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **various Image analysis tools for bio medical image analysis**
 
-- 👨‍💻 All of my projects are available at [https://www.wayup.com/profile/Bhuvan-Channagiri-730bb98367/](https://www.wayup.com/profile/Bhuvan-Channagiri-730bb98367/)
+- 👨‍💻 All of my projects are available at [(https://bhuvankarthik.lovable.app/)]
 
 - 💬 Ask me about **anything from the world of F1**
 
